@@ -2,8 +2,12 @@
 
 `npm i react-speech-recognition`
 
-`npm regenerator-runtime`
+`npm i regenerator-runtime`
 
 See configuration in the `SpeechRec.jsx file`
 
 For now, it only works in Chrome.
+
+---
+
+by Vanesascode
